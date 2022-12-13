@@ -52,4 +52,15 @@ export const styles_ = StyleSheet.create({
     elevation: 10,
     shadowColor: '#515151',
   },
+  image:{
+    flex: 1,
+    justifyContent: "center",
+    backgroundColor: '#515151',
+  },
+  linearGradient: {
+    flex: 1,
+    paddingLeft: 15,
+    paddingRight: 15,
+    borderRadius: 5
+  },
 });
